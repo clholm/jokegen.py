@@ -1,0 +1,444 @@
+abbey
+A-frame
+aircraft hangar
+airport terminal
+amphitheater
+apartment building
+aqueduct
+arch
+arena
+armory
+assembly hall
+barn
+barracks
+beach house
+boathouse
+boarding house
+bowling alley
+bridge
+brownstone
+building
+bungalow
+bunkhouse
+bunker
+cabana
+cabin
+capitol
+carport
+castle
+catacomb
+cathedral
+chalet
+chapel
+chateau
+church
+cinema
+city hall
+clubhouse
+college
+compound
+concert hall
+condominium
+conservatory
+cottage
+courthouse
+crypt
+depot
+detached house
+dock
+dome
+dormitory
+double wide
+duplex
+dwelling
+earth-sheltered house
+embassy
+exposition hall
+factory
+farm
+farmhouse
+ferry slip
+ferry terminal
+firehouse
+fire station
+folly
+forge
+fort
+fortress
+foundry
+gallery
+garage
+gas station
+gazebo
+geodesic dome
+granary
+greenhouse
+gym
+gymnasium
+hall
+hangar
+haunted house
+headquarters
+high-rise
+home
+hospital
+hostel
+hotel
+hot house
+house
+houseboat
+housing project
+hunting lodge
+hut
+igloo
+jail
+kiosk
+laboratory
+lean-to
+library
+lighthouse
+lodge
+log cabin
+longhouse
+mall
+manor
+manse
+mansion
+marina
+market
+mausoleum
+meeting hall
+mill
+minaret
+mobile home
+monastery
+monument
+mosque
+motel
+museum
+nuclear power plant
+nursing home
+observatory
+office building
+opera house
+outbuilding
+outhouse
+pagoda
+palace
+parking garage
+parliament
+pavilion
+plant
+playhouse
+police station
+pool house
+post office
+power plant
+prefab building
+prison
+pump house
+pyramid
+quonset hut
+railway station
+ranch
+rectory
+refinery
+residence
+restaurant
+roller rink
+roundhouse
+rowhouse
+school
+shack
+shed
+shelter
+shopping center
+shopping mall
+shrine
+silo
+skating rink
+skyscraper
+skyway
+smokestack
+spire
+split-level house
+stable
+stadium
+state house
+station
+steeple
+store
+storehouse
+strip mall
+structure
+studio
+supermarket
+symphony
+synagogue
+temple
+tenement
+tent
+terminal
+theater
+tipi
+toll house
+tomb
+tower
+townhouse
+treehouse
+triplex
+Tudor house
+university
+vault
+vicarage
+villa
+warehouse
+watermill
+workshop
+yurt
+airport
+amusement park
+antique shop
+appliance store
+arcade
+arena
+art gallery
+art museum
+aquarium
+army surplus store
+auditorium
+automat
+bakery
+bank
+bar
+barbershop
+beauty salon
+bed and breakfast
+bistro
+bookstore
+boutique
+brasserie
+bus station
+butcher shop
+cafe
+cafeteria
+camera store
+candy shop
+capitol building
+car dealership
+car wash
+chain store
+cinema
+city hall
+civic center
+clinic
+clothing store
+coffee shop
+college
+community center
+consignment shop
+convenience store
+convention center
+copy shop
+courthouse
+dance studio
+deli
+delicatessen
+department store
+dentist's office
+diner
+discount store
+doctor's office
+dollar store
+dressmaker
+drive-in movie
+drive-through
+drugstore
+electronics store
+emporium
+fabric store
+factory outlet
+farmer's market
+fast food restaurant
+feed store
+fire station
+five-and-dime store
+fix-it shop
+florist
+food court
+funeral home
+furniture store
+gallery
+game store
+gas station
+general store
+gift store
+grocery store
+gym
+gymnasium
+haberdashery
+hairdresser
+hardware store
+hobby store
+home improvement store
+hotel
+ice cream shop
+inn
+jewelry store
+kiosk store
+library
+lighthouse
+lumberyard
+mall
+market
+meeting house
+milliner
+motel
+movie theater
+museum
+music store
+natural history museum
+nursery
+office building
+optometrist
+outlet store
+park
+parking garage
+pawnshop
+pet store
+pharmacy
+pizza place
+playground
+police station
+post office
+pub
+public garden
+quilt store
+real estate agency
+repair shop
+restaurant
+retailer
+salon
+saloon
+sandwich shop
+school
+second hand store
+shoe store
+shop
+soda shop
+sporting goods store
+stadium
+stationer
+stationery store
+bayou
+bog
+store
+supermarket
+surplus store
+tailor
+tavern
+tea house
+tearoom
+montane grassland
+moor
+theater
+thrift store
+town hall
+deep sea trench
+toy store
+train station
+travel agent
+rainforest
+river delta
+truck stop
+undertaker
+university
+kelp forest
+wetland
+wet meadow
+woodland
+woods
+upholstery shop
+video store
+wax museum
+zoo
+Bakery
+Beauty salon
+Bookstore or bookshop
+Clinic
+Community hall
+Department store
+Eatery
+Fast-food restaurant
+Film studio
+Floristry
+Folly
+Food court
+Gym
+Hospice
+Hospital
+Hypermarket
+Mini market
+Office building
+Monastery
+Fire temple
+Shrine
+Synagogue
+Temple
+Pagoda
+Pizzeria
+Plant nursery
+Pub
+Bathhouse
+Skyscraper
+Stall
+Sport club
+Wet market
+Workshop
+Game Store
+City hall
+Consulate
+Courthouse
+Embassy
+Fire station
+Meeting house
+Moot hall
+Parliament
+Police station
+Post office
+Prison
+Assembly
+Automobile repair shop
+Car wash
+Convention center
+Drugstore
+Filling station
+Forum
+Hotel
+Internet cafe
+Market
+Market house
+Pharmacy
+Skyscraper
+Shop
+Shopping mall
+Supermarket
+Warehouse
+Restaurant
+Office
+Hairdressers
+Abbatoir
+Barn
+Chicken coop
+Cow-shed
+Farmhouse
+Greenhouse
+Hayloft
+Pigpen or sty
+Root cellar
+Shed
+Silo
+Slaughterhouse
+Stable
+Storm cellar
+Well house
